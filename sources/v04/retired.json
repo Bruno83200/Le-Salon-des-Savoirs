@@ -1,0 +1,89 @@
+[
+  {
+    "record": {
+      "id": "oqdb-70-19",
+      "category": "history",
+      "question": "Quel acteur américain fut recherché par Hitler pendant la seconde Guerre mondiale ?",
+      "choices": [
+        "John Wayne",
+        "Charlie chaplin",
+        "Clark Gable",
+        "Dean Martin"
+      ],
+      "answer": "Clark Gable",
+      "explanation": "Adolf Hitler plaçait Clark Gable au-dessus des autres acteurs et offrit une récompense pour sa capture.",
+      "difficulty": "moyen",
+      "originalDifficulty": "confirmé",
+      "theme": "Guerres et batailles",
+      "author": "Philippe Bresoux",
+      "source": "OpenQuizzDB",
+      "sourceUrl": "https://github.com/Zeuh/OpenQuizzDB/blob/a16819964d171e40e6652368fc562f3bd27d0c5b/data/openquizzdb_70.json",
+      "downloadUrl": "https://raw.githubusercontent.com/Zeuh/OpenQuizzDB/a16819964d171e40e6652368fc562f3bd27d0c5b/data/openquizzdb_70.json",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "Sélection, classement dans six rubriques, normalisation HTML/espaces ; voir éventuelles corrections éditoriales.",
+      "reviewStatus": "structure-checked",
+      "factCheckStatus": "not-independently-verified",
+      "retrieved": "2026-10-19"
+    },
+    "reason": "Récit sur Clark Gable recherché par Hitler : affirmation non étayée par une référence conservée."
+  },
+  {
+    "record": {
+      "id": "oqdb-206-7",
+      "category": "science",
+      "question": "Contre quelle pathologie le magnésium est-il conseillé ?",
+      "choices": [
+        "Anorexie",
+        "Boulimie",
+        "Stress",
+        "Asthme"
+      ],
+      "answer": "Stress",
+      "explanation": "Le stress désigne l'ensemble des réponses d'un organisme soumis à des pressions ou contraintes de la part de son environnement.",
+      "difficulty": "facile",
+      "originalDifficulty": "débutant",
+      "theme": "Magnésium (Le magnésium ravive la couleur de la rose)",
+      "author": "Philippe Bresoux",
+      "source": "OpenQuizzDB",
+      "sourceUrl": "https://github.com/Zeuh/OpenQuizzDB/blob/a16819964d171e40e6652368fc562f3bd27d0c5b/data/openquizzdb_206.json",
+      "downloadUrl": "https://raw.githubusercontent.com/Zeuh/OpenQuizzDB/a16819964d171e40e6652368fc562f3bd27d0c5b/data/openquizzdb_206.json",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "Sélection, classement dans six rubriques, normalisation HTML/espaces ; voir éventuelles corrections éditoriales.",
+      "reviewStatus": "structure-checked",
+      "factCheckStatus": "not-independently-verified",
+      "retrieved": "2026-10-19"
+    },
+    "reason": "Recommandation générale magnésium/stress sans contexte clinique suffisant : retirée, et non présentée comme réfutée."
+  },
+  {
+    "record": {
+      "id": "oqdb-151-9",
+      "category": "science",
+      "question": "Quel appareil énoncé par Tesla sera plus tard installé sur des bateaux ?",
+      "choices": [
+        "Anémomètre",
+        "Météofax",
+        "Bobine",
+        "Radar"
+      ],
+      "answer": "Radar",
+      "explanation": "En 1934, suite à une étude du magnétron, des essais par ondes courtes furent menés par la CSF selon les principes de Tesla.",
+      "difficulty": "facile",
+      "originalDifficulty": "débutant",
+      "theme": "Nikola Tesla (Savant génial et visionnaire)",
+      "author": "Philippe Bresoux",
+      "source": "OpenQuizzDB",
+      "sourceUrl": "https://github.com/Zeuh/OpenQuizzDB/blob/a16819964d171e40e6652368fc562f3bd27d0c5b/data/openquizzdb_151.json",
+      "downloadUrl": "https://raw.githubusercontent.com/Zeuh/OpenQuizzDB/a16819964d171e40e6652368fc562f3bd27d0c5b/data/openquizzdb_151.json",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "Sélection, classement dans six rubriques, normalisation HTML/espaces ; voir éventuelles corrections éditoriales.",
+      "reviewStatus": "structure-checked",
+      "factCheckStatus": "not-independently-verified",
+      "retrieved": "2026-10-19"
+    },
+    "reason": "Attribution et formulation sur Tesla et le radar trop imprécises pour un QCM fiable."
+  }
+]

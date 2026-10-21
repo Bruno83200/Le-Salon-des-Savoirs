@@ -1,0 +1,72 @@
+{
+  "ecuador": {
+    "publisher": "France Diplomatie",
+    "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/equateur/presentation-de-l-equateur",
+    "consulted": "2026-10-20"
+  },
+  "iceland": {
+    "publisher": "France Diplomatie",
+    "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/islande/presentation-de-l-islande",
+    "consulted": "2026-10-20"
+  },
+  "angkor": {
+    "publisher": "UNESCO",
+    "url": "https://whc.unesco.org/fr/list/668/",
+    "consulted": "2026-10-20"
+  },
+  "machu": {
+    "publisher": "UNESCO",
+    "url": "https://whc.unesco.org/fr/list/274/",
+    "consulted": "2026-10-20"
+  },
+  "oscars": {
+    "publisher": "Academy of Motion Picture Arts and Sciences",
+    "url": "https://www.oscars.org/oscars/ceremonies/2025",
+    "consulted": "2026-10-20"
+  },
+  "un": {
+    "publisher": "Nations Unies",
+    "url": "https://www.un.org/fr/about-us/universal-declaration-of-human-rights",
+    "consulted": "2026-10-20"
+  },
+  "nasa": {
+    "publisher": "NASA",
+    "url": "https://www.nasa.gov/history/apollo-11-mission-overview/",
+    "consulted": "2026-10-20"
+  },
+  "si": {
+    "publisher": "Bureau international des poids et mesures",
+    "url": "https://www.bipm.org/en/measurement-units/si-base-units",
+    "consulted": "2026-10-20"
+  },
+  "renoir": {
+    "publisher": "Musée d’Orsay",
+    "url": "https://www.musee-orsay.fr/fr/oeuvres/bal-du-moulin-de-la-galette-497",
+    "consulted": "2026-10-20"
+  },
+  "millet": {
+    "publisher": "Musée d’Orsay",
+    "url": "https://www.musee-orsay.fr/fr/oeuvres/des-glaneuses-342",
+    "consulted": "2026-10-20"
+  },
+  "degas": {
+    "publisher": "Musée d’Orsay",
+    "url": "https://www.musee-orsay.fr/fr/oeuvres/la-classe-de-danse-1151",
+    "consulted": "2026-10-20"
+  },
+  "manet": {
+    "publisher": "Musée d’Orsay",
+    "url": "https://www.musee-orsay.fr/fr/oeuvres/le-dejeuner-sur-lherbe-904",
+    "consulted": "2026-10-20"
+  },
+  "cnosf": {
+    "publisher": "CNOSF",
+    "url": "https://cnosf.franceolympique.com/jo-de-paris-2024-records-battus-medailles-des-francais-le-bilan-des-jo",
+    "consulted": "2026-10-20"
+  },
+  "riner": {
+    "publisher": "Comité international olympique",
+    "url": "https://www.olympics.com/en/news/paris-2024-judo-teddy-riner-takes-gold-at-100kg-most-decorated-olympic-judoka",
+    "consulted": "2026-10-20"
+  }
+}
