@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="theme-color" content="#063467" />
+    <meta
+      name="description"
+      content="Six couleurs, 624 questions : une soirée de culture générale en solo ou entre amis."
+    />
+    <title>Le Salon des Savoirs · Le savoir se partage</title>
+    <link rel="icon" href="./assets/favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="./css/styles.css" />
+  </head>
+  <body>
+    <div class="ambient" aria-hidden="true"></div>
+    <header class="app-header">
+      <a
+        href="#accueil"
+        class="brand"
+        aria-label="Le Salon des Savoirs, accueil"
+        ><span class="brand-symbol">✳</span
+        ><span>LE SALON<small>DES SAVOIRS</small></span></a
+      >
+      <nav aria-label="Navigation principale">
+        <a href="#accueil" data-nav="accueil">Accueil</a
+        ><a href="#plateau" data-nav="plateau" id="nav-game" hidden>La partie</a
+        ><a href="#scores" data-nav="scores">Scores</a
+        ><a href="#regles" data-nav="regles">Les règles</a>
+      </nav>
+      <button
+        class="icon-button"
+        data-action="options"
+        aria-label="Options"
+        title="Options"
+      >
+        ⚙
+      </button>
+    </header>
+    <main id="app" tabindex="-1">
+      <section class="loading">
+        <span class="brand-symbol">✳</span>
+        <h1>On prépare le salon…</h1>
+        <p>Chargement des 624 questions.</p>
+      </section>
+    </main>
+    <footer class="app-footer">
+      <span>LE SAVOIR SE PARTAGE. LA BONNE HUMEUR AUSSI.</span>
+      <div>
+        <span id="save-status">Jeu local · sans compte</span
+        ><a href="#credits">Crédits & sources · v0.5</a>
+      </div>
+    </footer>
+    <div id="toast" role="status" aria-live="polite"></div>
+    <dialog id="confirm-dialog">
+      <form method="dialog">
+        <p class="eyebrow">UNE NOUVELLE SOIRÉE ?</p>
+        <h2>Remplacer la partie en cours ?</h2>
+        <p>
+          Les scores de cette partie seront effacés. Les parties déjà terminées
+          restent dans l’historique.
+        </p>
+        <div class="button-row">
+          <button value="cancel" class="secondary">Garder ma partie</button
+          ><button value="replace" class="primary">Nouvelle partie →</button>
+        </div>
+      </form>
+    </dialog>
+    <script type="module" src="./js/app.js"></script>
+  </body>
+</html>

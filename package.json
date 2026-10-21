@@ -1,0 +1,9 @@
+{
+  "name": "le-salon-des-savoirs",
+  "version": "0.5.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.cjs",
+    "test": "node scripts/check.cjs"
+  }
+}
