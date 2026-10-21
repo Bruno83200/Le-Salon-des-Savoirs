@@ -1,0 +1,1747 @@
+[
+  {
+    "id": "oqdb-115-1",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Dans quel océan se déverse l'Amazone, de loin le plus élevé de tous les fleuves de la planète ?"
+  },
+  {
+    "id": "oqdb-115-2",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Où peut-on se rendre dans la plus grande île et le plus petit continent du monde ?"
+  },
+  {
+    "id": "oqdb-115-4",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quelle est la plus grande ville du Grand-Duché de Luxembourg ainsi que sa capitale ?"
+  },
+  {
+    "id": "oqdb-115-29",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien de mers baignent la Russie, le plus vaste pays de notre planète ?"
+  },
+  {
+    "id": "oqdb-115-30",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Sur quelle île se trouve Manille, deuxième ville la plus peuplée des Philippines après Quezon ?"
+  },
+  {
+    "id": "oqdb-174-11",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quelle est la capitale ainsi que la plus grande ville d'Égypte ?"
+  },
+  {
+    "id": "oqdb-174-15",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien y a-t-il de communes à Paris, situées sur une boucle de la Seine ?"
+  },
+  {
+    "id": "oqdb-174-19",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Dans quelle ville recense-t-on le plus grand nombre de taxis au monde ?"
+  },
+  {
+    "id": "oqdb-174-23",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien y a-t-il environ d'habitants à Mexico, capitale et ville la plus peuplée du Mexique ?"
+  },
+  {
+    "id": "oqdb-174-26",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "De quel pays Rangoun est-elle la plus grande ville en nombre d'habitants ?"
+  },
+  {
+    "id": "oqdb-174-27",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Dans quel pays se trouve Hammerfest, la ville la plus au nord de l'Europe ?"
+  },
+  {
+    "id": "oqdb-14-1",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien de départements compte la Bretagne, à l'extrémité ouest de la France ?"
+  },
+  {
+    "id": "oqdb-14-9",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien peut-on compter de bandes noires et blanches sur le drapeau breton ?"
+  },
+  {
+    "id": "oqdb-14-27",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quelle est la ville la plus importante et la plus touristique de Belle-Île-en-Mer ?"
+  },
+  {
+    "id": "oqdb-104-1",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "En combien de provinces le Canada est-il divisé en plus des trois territoires fédéraux ?"
+  },
+  {
+    "id": "oqdb-104-2",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quelles sont les deux couleurs du drapeau du Québec, révélé pour la première fois en 1948 ?"
+  },
+  {
+    "id": "oqdb-104-6",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel nom portent les habitants de Montréal, la ville la plus peuplée du Québec ?"
+  },
+  {
+    "id": "oqdb-104-9",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quelles sont les deux langues officielles les plus parlées au Canada ?"
+  },
+  {
+    "id": "oqdb-104-14",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel est le plus long fleuve du Canada, navigable approximativement cinq mois par an ?"
+  },
+  {
+    "id": "oqdb-104-15",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien de fois le Canada a-t-il accueilli les Jeux olympiques, en été comme en hiver ?"
+  },
+  {
+    "id": "oqdb-104-17",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quelle est la plus peuplée des provinces du Canada avec 13,5 millions d'habitants ?"
+  },
+  {
+    "id": "oqdb-104-20",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quelle ex-playmate, aujourd'hui productrice, est née le jour du Centenaire du Canada ?"
+  },
+  {
+    "id": "oqdb-104-25",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quelle est la plus grande université du Canada, répartie sur trois campus ?"
+  },
+  {
+    "id": "oqdb-104-30",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quelle attraction touristique de Toronto a longtemps été la plus haute structure autoportante du monde ?"
+  },
+  {
+    "id": "oqdb-109-10",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quelle ville italienne abrite le pont du Rialto, l'un des monuments les plus visités de la cité ?"
+  },
+  {
+    "id": "oqdb-109-11",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "À quel réalisateur et scénariste italien aujourd'hui disparu est associée 'La dolce vita' ?"
+  },
+  {
+    "id": "oqdb-109-26",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel maillot est porté par le coureur occupant la première place du classement au Giro ?"
+  },
+  {
+    "id": "oqdb-130-4",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel ancien premier ministre de Grande-Bretagne appelait-on la « Dame de Fer » ?"
+  },
+  {
+    "id": "oqdb-130-13",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel est le plus grand parc du centre de Londres en terme de superficie ?"
+  },
+  {
+    "id": "oqdb-130-14",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quelle est la ville britannique la plus proche du continent européen ?"
+  },
+  {
+    "id": "oqdb-130-15",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien de fois Winston Churchill a-t-il été nommé premier ministre anglais ?"
+  },
+  {
+    "id": "oqdb-130-19",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien y a-t-il de triangles bleus sur le drapeau du Royaume-Uni ?"
+  },
+  {
+    "id": "oqdb-130-21",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "En quelle année la première ligne du métro londonien a-t-elle été inaugurée ?"
+  },
+  {
+    "id": "oqdb-135-9",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel type de navire est le plus adapté et le plus rapide en Antarctique ?"
+  },
+  {
+    "id": "oqdb-135-11",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel est le plus grand des lacs subglaciaires de l'Antarctique ?"
+  },
+  {
+    "id": "oqdb-135-16",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien de régions biogéographiques terrestres dénombre-t-on, dont fait partie l'Antarctique ?"
+  },
+  {
+    "id": "oqdb-135-17",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel est le seul manchot qui se reproduit en Antarctique pendant l'hiver austral ?"
+  },
+  {
+    "id": "oqdb-135-19",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien d'habitants permanents compte-t-on à ce jour en Antarctique ?"
+  },
+  {
+    "id": "oqdb-135-21",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien dénombre-t-on de lacs à la base de la calotte glaciaire continentale ?"
+  },
+  {
+    "id": "oqdb-135-22",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien de millions d'individus composent la population globale des oiseaux de l'Arctique ?"
+  },
+  {
+    "id": "oqdb-135-24",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel nom porte la première base « zéro-émission » du monde en Antarctique ?"
+  },
+  {
+    "id": "oqdb-135-26",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien d'États ont apposé leur paraphe sur le traité sur l’Antarctique ?"
+  },
+  {
+    "id": "oqdb-135-27",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "En quelle année l'Antarctique a-t-il été aperçu pour la première fois ?"
+  },
+  {
+    "id": "oqdb-135-28",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Situé sur l'île de Ross, quel est le volcan actif le plus austral du monde ?"
+  },
+  {
+    "id": "oqdb-135-29",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Qui est la première personne née au sud du 60e parallèle sud ?"
+  },
+  {
+    "id": "oqdb-61-14",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quelle est la plus folle et la plus grande station balnéaire de la côte pacifique du Mexique ?"
+  },
+  {
+    "id": "oqdb-61-19",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Dans quel pays visiterez-vous les ruines de Carthage, ancienne cité punique ?"
+  },
+  {
+    "id": "oqdb-61-24",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Sous quel nom l'île de Kerkyra est-elle plus connue des brochures touristiques ?"
+  },
+  {
+    "id": "oqdb-61-28",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Situé dans les Alpes, quel est le plus grand Parc Naturel de France ?"
+  },
+  {
+    "id": "oqdb-82-15",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Dans quel pays, le septième le plus grand du monde, vit le peuple Kannada ?"
+  },
+  {
+    "id": "oqdb-82-20",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien compte-t-on d'Irlandais aux États-Unis, avec dix fois plus qu'en Irlande elle-même ?"
+  },
+  {
+    "id": "oqdb-82-23",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien d'ethnies sont officiellement reconnues en Chine ?"
+  },
+  {
+    "id": "oqdb-82-25",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Environ combien d'Afrikaners vivent actuellement en Afrique du Sud ?"
+  },
+  {
+    "id": "oqdb-82-26",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien d'Inuits vivent aux États-Unis, au Canada et au Groenland ?"
+  },
+  {
+    "id": "oqdb-15-18",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien de fois Elizabeth Taylor et Richard Burton se sont-ils mariés ?"
+  },
+  {
+    "id": "oqdb-16-2",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel film de Spielberg a été le premier véritable blockbuster du cinéma américain ?"
+  },
+  {
+    "id": "oqdb-16-8",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel film représente le plus grand succès commercial de la carrière de Steven Spielberg ?"
+  },
+  {
+    "id": "oqdb-16-11",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel téléfilm est devenu le premier gros succès de Steven Spielberg auprès du grand public ?"
+  },
+  {
+    "id": "oqdb-16-19",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel personnage de BD est à la base du premier film en 3D sorti par Steven Spielberg ?"
+  },
+  {
+    "id": "oqdb-16-21",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien d'Oscars Steven Spielberg a-t-il reçu durant sa carrière ?"
+  },
+  {
+    "id": "oqdb-16-22",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel titre porte le premier long-métrage réalisé pour le cinéma par Steven Spielberg ?"
+  },
+  {
+    "id": "oqdb-16-26",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Dans quel film de Spielberg Audrey Hepburn apparaît-elle pour la dernière fois ?"
+  },
+  {
+    "id": "oqdb-25-11",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel animateur télé aujourd'hui disparu a très vite été surnommé l'homme à l'oreillette ?"
+  },
+  {
+    "id": "oqdb-25-12",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Qui a le premier animé 'La revue de presse' dans 'Salut les Terriens!' ?"
+  },
+  {
+    "id": "oqdb-25-23",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quelle animatrice a affirmé que « la quête de vérité » était sa première motivation ?"
+  },
+  {
+    "id": "oqdb-25-28",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Qui fut le premier à animer 'La Chasse aux trésors' sur Antenne 2 en 1981 ?"
+  },
+  {
+    "id": "oqdb-39-3",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Pour quel instrument Mozart a-t-il composé le plus grand nombre de concerto ?"
+  },
+  {
+    "id": "oqdb-39-4",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien de cordes possède un violon, occupant une place importante en musique classique ?"
+  },
+  {
+    "id": "oqdb-39-8",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien de cordes au minimum compte-t-on sur une guitare basse, avec un diapason de 34 pouces ?"
+  },
+  {
+    "id": "oqdb-39-17",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel instrument de musique est le plus aigu dans un orchestre symphonique ?"
+  },
+  {
+    "id": "oqdb-39-20",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien de pistons une trompette compte-t-elle, en réponse au vœu de rendre chromatique ?"
+  },
+  {
+    "id": "oqdb-39-21",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien y a-t-il de cordes sur une harpe de concert, obtenant ainsi une tessiture de 6 octaves ?"
+  },
+  {
+    "id": "oqdb-39-25",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quelle est la tonalité la plus fréquente des bourdons de la cornemuse écossaise ?"
+  },
+  {
+    "id": "oqdb-39-26",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "De combien de pièces de bois, collées ou assemblées, un violon est-il composé ?"
+  },
+  {
+    "id": "oqdb-163-2",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "De combien doivent hériter les frères de la comédie 'Les 3 frères' ?"
+  },
+  {
+    "id": "oqdb-163-27",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien de comédies Pierre Richard et Gérard Depardieu ont-ils jouées ensemble ?"
+  },
+  {
+    "id": "oqdb-177-2",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Qui n'en finit plus de mourir dans les premières saisons de South Park ?"
+  },
+  {
+    "id": "oqdb-177-4",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Qui est le plus âgé des enfants de la famille Simpson ?"
+  },
+  {
+    "id": "oqdb-177-8",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel pivert possède le rire le plus reconnaissable de la télévision ?"
+  },
+  {
+    "id": "oqdb-177-14",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Grâce à quel objet Sophie communique-t-elle avec Finot dans 'Inspecteur Gadget' ?"
+  },
+  {
+    "id": "oqdb-177-16",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Pour quelle raison Calimero est-il le seul poussin de couleur noire autour de lui ?"
+  },
+  {
+    "id": "oqdb-177-24",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Qui est probablement le plus célèbre shérif de l'espace ?"
+  },
+  {
+    "id": "oqdb-177-28",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien sont les héros des Petites Canailles apparues en 1962 ?"
+  },
+  {
+    "id": "oqdb-194-15",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel est le titre du premier album studio enregistré par France Gall ?"
+  },
+  {
+    "id": "oqdb-194-16",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Avec qui France Gall a-t-elle chanté sur scène pour la dernière fois ?"
+  },
+  {
+    "id": "oqdb-194-19",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel album reste à ce jour le plus grand succès commercial de France Gall ?"
+  },
+  {
+    "id": "oqdb-194-29",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Pour quel label américain France Gall fut-elle la première à enregistrer en France ?"
+  },
+  {
+    "id": "oqdb-194-30",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel titre porte l'unique album-concept enregistré par France Gall ?"
+  },
+  {
+    "id": "oqdb-214-5",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien de nommés sont retenus pour le César du meilleur film ?"
+  },
+  {
+    "id": "oqdb-214-14",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Laquelle de ces cérémonies de récompense est la plus ancienne ?"
+  },
+  {
+    "id": "oqdb-214-22",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien de César étaient à l'origine distribués lors de la cérémonie ?"
+  },
+  {
+    "id": "oqdb-214-24",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel acteur français a remporté quatre César en une seule et même cérémonie ?"
+  },
+  {
+    "id": "oqdb-214-25",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Qui fut le tout premier président de la cérémonie des César ?"
+  },
+  {
+    "id": "oqdb-214-27",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "En combien de collèges sont répartis les votants des César ?"
+  },
+  {
+    "id": "oqdb-214-28",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien de votants au total ont participé aux César de 2017 ?"
+  },
+  {
+    "id": "oqdb-214-29",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel fut le premier film non-francophone à triompher aux César ?"
+  },
+  {
+    "id": "oqdb-250-3",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "De combien doivent hériter chacun des frères de la comédie « Les 3 frères » ?"
+  },
+  {
+    "id": "oqdb-250-4",
+    "reason": "doublon exact normalisé",
+    "question": "Qui est surnommé « Ma biche » par Louis de Funès dans la plupart de ses films ?"
+  },
+  {
+    "id": "oqdb-250-5",
+    "reason": "doublon exact normalisé",
+    "question": "Qui incarne Jean-Claude Van-Damme dans la comédie « JCVD » ?"
+  },
+  {
+    "id": "oqdb-250-14",
+    "reason": "doublon exact normalisé",
+    "question": "Quel est le nom de la famille modeste de « La vie est un long fleuve tranquille » ?"
+  },
+  {
+    "id": "oqdb-250-16",
+    "reason": "doublon exact normalisé",
+    "question": "Quel personnage joue Jamel Debbouze dans « Astérix et Obélix : Mission Cléopâtre » ?"
+  },
+  {
+    "id": "oqdb-250-18",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien de comédies Pierre Richard et Gérard Depardieu ont-ils jouées ensemble ?"
+  },
+  {
+    "id": "oqdb-250-19",
+    "reason": "doublon exact normalisé",
+    "question": "En quel héros se déguise Martin Lamotte dans « Papy fait de la résistance » ?"
+  },
+  {
+    "id": "oqdb-250-20",
+    "reason": "doublon exact normalisé",
+    "question": "Quelle est la profession de Christian Clavier dans « Les Anges Gardiens » ?"
+  },
+  {
+    "id": "oqdb-250-21",
+    "reason": "doublon exact normalisé",
+    "question": "Qui est devenu coiffeur hype à Los Angeles dans « Les Bronzés 3 » ?"
+  },
+  {
+    "id": "oqdb-250-22",
+    "reason": "doublon exact normalisé",
+    "question": "Dans quoi Bourvil et de Funès s'échappent-ils à la fin de « La Grande Vadrouille » ?"
+  },
+  {
+    "id": "oqdb-250-23",
+    "reason": "doublon exact normalisé",
+    "question": "Lequel de ces acteurs ne retrouve-t-on pas dans « Le gendarme se marie » ?"
+  },
+  {
+    "id": "oqdb-250-25",
+    "reason": "doublon exact normalisé",
+    "question": "Quel personnage est joué par Lino Ventura dans « Les Tontons flingueurs » ?"
+  },
+  {
+    "id": "oqdb-250-26",
+    "reason": "doublon exact normalisé",
+    "question": "Comment se nomme la célèbre attachée de presse de « La Cité de la peur » ?"
+  },
+  {
+    "id": "oqdb-250-27",
+    "reason": "doublon exact normalisé",
+    "question": "Quel âge a Tanguy dans le film réalisé en 2001 par Étienne Chatiliez ?"
+  },
+  {
+    "id": "oqdb-250-28",
+    "reason": "doublon exact normalisé",
+    "question": "Dans quel quartier de Paris se déroulent les scènes de « La Vérité si je mens ! » ?"
+  },
+  {
+    "id": "oqdb-250-29",
+    "reason": "doublon exact normalisé",
+    "question": "Qui incarne la maîtresse névrosée de Thierry Lhermitte dans « Le Dîner de cons » ?"
+  },
+  {
+    "id": "oqdb-250-30",
+    "reason": "doublon exact normalisé",
+    "question": "Qui est le père biologique du bébé dans « Trois hommes et un couffin » ?"
+  },
+  {
+    "id": "oqdb-256-2",
+    "reason": "doublon exact normalisé",
+    "question": "Qui est le partenaire indissociable de Louis de Funès dans « Le Corniaud » ?"
+  },
+  {
+    "id": "oqdb-256-4",
+    "reason": "doublon exact normalisé",
+    "question": "Dans quel film Jean Dujardin a-t-il les cheveux longs et une planche à voile jaune ?"
+  },
+  {
+    "id": "oqdb-256-8",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quelle est la première des résolutions prise par Bridget Jones ?"
+  },
+  {
+    "id": "oqdb-256-12",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien de suites a connu « Le gendarme de Saint-Tropez » ?"
+  },
+  {
+    "id": "oqdb-256-19",
+    "reason": "doublon exact normalisé",
+    "question": "Quel quatuor de chanteurs comiques a régné sur la comédie française des années 1970 ?"
+  },
+  {
+    "id": "oqdb-92-1",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien Marilyn Monroe a-t-elle eu de maris en regard à son immense notoriété ?"
+  },
+  {
+    "id": "oqdb-92-15",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel fut le premier métier de Stan Laurel ayant formé le célèbre duo comique Laurel et Hardy ?"
+  },
+  {
+    "id": "oqdb-92-23",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien y a-t-il de films de Charlot, souvent assimilé lui-même à Charlie Chaplin ?"
+  },
+  {
+    "id": "oqdb-92-26",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "A quel âge Sandrine Bonnaire a-t-elle tourné son premier film ?"
+  },
+  {
+    "id": "oqdb-92-27",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien de personnes votent pour l'attribution des Oscars du cinéma américain ?"
+  },
+  {
+    "id": "oqdb-92-30",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien de temps le tournage du film 'E.T.' de Steven Spielberg a-t-il duré ?"
+  },
+  {
+    "id": "oqdb-8-3",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien de sarcophages protégeaient la momie de Toutânkhamon ?"
+  },
+  {
+    "id": "oqdb-8-6",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel est le plus vaste musée consacré à la civilisation de l'Égypte ancienne ?"
+  },
+  {
+    "id": "oqdb-8-17",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien de marches descendent vers la porte d'entrée de la tombe de Toutânkhamon ?"
+  },
+  {
+    "id": "oqdb-8-18",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Comment la première pièce de la tombe de Toutânkhamon a-t-elle été appelée ?"
+  },
+  {
+    "id": "oqdb-8-20",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien de filles, mortes prématurément, le pharaon Toutânkhamon aurait-il eues ?"
+  },
+  {
+    "id": "oqdb-8-23",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien d'oeuvres et de pièces de mobilier contenait la tombe de Toutânkhamon ?"
+  },
+  {
+    "id": "oqdb-8-24",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel nom porte la coiffe la plus emblématique des pharaons ?"
+  },
+  {
+    "id": "oqdb-120-6",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quelle était la première fonction des monumentales pyramides d'Égypte ?"
+  },
+  {
+    "id": "oqdb-120-10",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien y a-t-il de grandes pyramides sur le plateau de Gizeh, classé à l'UNESCO ?"
+  },
+  {
+    "id": "oqdb-120-14",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien mesurent les colosses de Ramsès II à l'entrée du grand temple d’Abou Simbel ?"
+  },
+  {
+    "id": "oqdb-120-25",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel pharaon tenta d’instaurer une religion à Dieu unique en changeant son nom ?"
+  },
+  {
+    "id": "oqdb-127-6",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Qui fut la première « first Lady » à être élue sénateur de New York le 8 novembre 2000 ?"
+  },
+  {
+    "id": "oqdb-127-10",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel ancien premier ministre mort en 2007 fut surnommé « meilleur économiste de France » ?"
+  },
+  {
+    "id": "oqdb-127-24",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Qui a prêté serment en tant que Premier ministre de l'Irak le 28 juin 2004 ?"
+  },
+  {
+    "id": "oqdb-160-4",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quand François Mitterrand fut-il élu président de la France pour la première fois ?"
+  },
+  {
+    "id": "oqdb-160-9",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel journal a brillé en sortant le premier l'affaire des diamants de Bokassa ?"
+  },
+  {
+    "id": "oqdb-160-19",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "À quelle élection présidentielle s'est présenté pour la première fois Michel Rocard ?"
+  },
+  {
+    "id": "oqdb-160-22",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel roi a fait installer les premières boîtes aux lettres dans Paris ?"
+  },
+  {
+    "id": "oqdb-160-27",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien de prisonniers y avait-il dans la Bastille le 14 juillet 1789 ?"
+  },
+  {
+    "id": "oqdb-160-28",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quelle expression a été utilisée pour la première fois à propos du Père Joseph ?"
+  },
+  {
+    "id": "oqdb-183-4",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel nom porte le plus grand édifice du site de Teotihuacan ?"
+  },
+  {
+    "id": "oqdb-183-6",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel temple est la dernière des grandes structures à avoir été édifiées à Teotihuacan ?"
+  },
+  {
+    "id": "oqdb-183-7",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Aux environs de quelle année datent les premiers bâtiments de la ville de Teotihuacan ?"
+  },
+  {
+    "id": "oqdb-183-9",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "De quoi provient ce que l'on sait aujourd'hui de la civilisation de Teotihuacan ?"
+  },
+  {
+    "id": "oqdb-183-11",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien d'habitants environ vivaient dans la cité de Teotihuacan à son apogée ?"
+  },
+  {
+    "id": "oqdb-183-14",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien de marches comporte l'escalier monumental de la pyramide du Soleil ?"
+  },
+  {
+    "id": "oqdb-188-6",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Qui est probablement le plus populaire des gladiateurs d'origine thrace ?"
+  },
+  {
+    "id": "oqdb-188-9",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "De quelle année avant J.-C. date le plus ancien combat de gladiateurs connu ?"
+  },
+  {
+    "id": "oqdb-188-15",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien de types de gladiateurs composent la majorité du corpus iconographique ?"
+  },
+  {
+    "id": "oqdb-188-19",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "En quelle année a-t-on pu assister aux derniers combats de gladiateurs à Rome ?"
+  },
+  {
+    "id": "oqdb-188-20",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quelle était la couleur de la tunique des arbitres des combats de gladiateurs ?"
+  },
+  {
+    "id": "oqdb-188-29",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Qui prit en 326 par l'édit de Béryte la première mesure contre la gladiature ?"
+  },
+  {
+    "id": "oqdb-70-1",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "En quelle année les États-Unis ont-ils pris part à la Première Guerre mondiale ?"
+  },
+  {
+    "id": "oqdb-70-11",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Exception faite des porte-aéronefs, quel est le plus grand des navires de guerre ?"
+  },
+  {
+    "id": "oqdb-70-17",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel écrivain célèbre perdit un bras lors de la Première Guerre Mondiale ?"
+  },
+  {
+    "id": "oqdb-70-18",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Dans quelle ville fut signé le traité marquant la fin de la Première Guerre mondiale ?"
+  },
+  {
+    "id": "oqdb-98-5",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "En quelle année a eu lieu la première Bataille de la Marne, mettant en échec le plan Schlieffen ?"
+  },
+  {
+    "id": "oqdb-98-17",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quelle est l'année du torpillage du paquebot Lusitania et des premières attaques au gaz ?"
+  },
+  {
+    "id": "oqdb-98-30",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quand Churchill a-t-il déclaré : « Nous sommes en face d'une catastrophe de première grandeur » ?"
+  },
+  {
+    "id": "oqdb-69-13",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "De combien de personnages est composée la sculpture de Rodin 'Les Bourgeois de Calais' ?"
+  },
+  {
+    "id": "oqdb-86-2",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quand le Louvre est-il devenu un musée, le plus grand de Paris ?"
+  },
+  {
+    "id": "oqdb-86-8",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien de panneaux de verre composent la Pyramide du Louvre ?"
+  },
+  {
+    "id": "oqdb-86-14",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien le musée du Louvre possède-t-il de tableaux de Léonard de Vinci ?"
+  },
+  {
+    "id": "oqdb-86-18",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien peut-on environ monter de marches d'escaliers au Musée du Louvre ?"
+  },
+  {
+    "id": "oqdb-86-20",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien de carats composent le Régent, célèbre diamant du Musée du Louvre ?"
+  },
+  {
+    "id": "oqdb-128-3",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "William Morris Hunt appartenait à une des familles artistiques de premier plan de quel pays ?"
+  },
+  {
+    "id": "oqdb-128-4",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "'La Bavaria' a été la première statue colossale à avoir été fondue en quelle matière ?"
+  },
+  {
+    "id": "oqdb-128-25",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Dans quel pays le premier romantisme a-t-il vu le jour à Iéna ?"
+  },
+  {
+    "id": "oqdb-128-30",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel peintre romantique réalisa la grande peinture 'Le Dernier jour de Pompéi' ?"
+  },
+  {
+    "id": "oqdb-139-2",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel poète romantique a écrit : « Un seul être vous manque et tout est dépeuplé » ?"
+  },
+  {
+    "id": "oqdb-87-8",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien de tomes Maxime Chattam a-t-il prévu pour sa série 'Autre-Monde' ?"
+  },
+  {
+    "id": "oqdb-87-25",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien de nouvelles Maxime Chattam a-t-il publié durant l'année 2001 ?"
+  },
+  {
+    "id": "oqdb-87-27",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quelle ville de l'Oregon a inspiré Maxime Chattam pour son premier roman ?"
+  },
+  {
+    "id": "oqdb-3-28",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel est le premier cadeau de Noël que Hagrid a offert à Harry Potter ?"
+  },
+  {
+    "id": "oqdb-124-12",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Le dernier album de Tintin achevé par Hergé est paru en 1976. Quel en était le titre ?"
+  },
+  {
+    "id": "oqdb-124-14",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Dans Tintin, le château de Moulinsart apparaît pour la première fois dans « Le »..."
+  },
+  {
+    "id": "oqdb-10-2",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Le requin-baleine, seul membre du genre Rhincodon, est un..."
+  },
+  {
+    "id": "oqdb-10-10",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quelle est la partie du requin la plus sollicitée en Asie pour ses propriétés aphrodisiaques ?"
+  },
+  {
+    "id": "oqdb-10-13",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien de techniciens fallait-il pour manipuler un faux requin des 'Dents de la mer' ?"
+  },
+  {
+    "id": "oqdb-10-15",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien de nageoires possèdent la plupart des requins ?"
+  },
+  {
+    "id": "oqdb-10-17",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Pour quelle raison la peau des requins femelles est-elle plus épaisse que celle des mâles ?"
+  },
+  {
+    "id": "oqdb-10-19",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel requin est considéré comme le plus grand poisson vivant actuellement sur Terre ?"
+  },
+  {
+    "id": "oqdb-10-21",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien d'espèces différentes de requins dénombre-t-on à ce jour dans nos océans ?"
+  },
+  {
+    "id": "oqdb-10-24",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Jusqu'à combien de dents certains requins peuvent-ils perdre durant leur vie ?"
+  },
+  {
+    "id": "oqdb-10-30",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Durant quel système géologique les premiers requins sont-ils apparus ?"
+  },
+  {
+    "id": "oqdb-12-7",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "De quel arbre connaît-on à ce jour plus de 20 000 variétés de fruits ?"
+  },
+  {
+    "id": "oqdb-12-25",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Dans nos contrées, quel est le premier arbre fruitier à fleurir à la fin de l'hiver ?"
+  },
+  {
+    "id": "oqdb-12-27",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel arbre fruitier est l'unique représentant du genre Cydonia ?"
+  },
+  {
+    "id": "oqdb-12-29",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel fruit possède la plus forte charge symbolique dans le monde chinois ?"
+  },
+  {
+    "id": "oqdb-145-11",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel oiseau vivant dans l'hémisphère nord nage le plus vite ?"
+  },
+  {
+    "id": "oqdb-145-13",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel est le seul oiseau au monde qui puisse voler à reculons ?"
+  },
+  {
+    "id": "oqdb-145-26",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Où se situe le plus grand parc zoologique au monde consacré aux oiseaux ?"
+  },
+  {
+    "id": "oqdb-151-3",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien de brevets environ Nikola Tesla a-t-il déposé au cours de sa vie ?"
+  },
+  {
+    "id": "oqdb-151-6",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Devenu polyglotte, combien de langues parlait Nikola Tesla ?"
+  },
+  {
+    "id": "oqdb-151-18",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "En quelle année Tesla s'est-il éteint dans sa chambre d'hôtel, seul et sans un sou ?"
+  },
+  {
+    "id": "oqdb-151-28",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Que concernait le tout dernier brevet déposé par Nikola Tesla en 1928 ?"
+  },
+  {
+    "id": "oqdb-184-10",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Que montre le loup le plus faible après une lutte pour la hiérarchie ?"
+  },
+  {
+    "id": "oqdb-184-11",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quelle est la cause de mortalité la plus fréquente chez les éléphants en liberté ?"
+  },
+  {
+    "id": "oqdb-184-16",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien pèse environ la plus petite espèce de musaraigne connue ?"
+  },
+  {
+    "id": "oqdb-184-20",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel animal est le plus grand ennemi connu de la buse variable ?"
+  },
+  {
+    "id": "oqdb-184-21",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Après combien de temps un bébé tigre reçoit-il de la viande pour la première fois ?"
+  },
+  {
+    "id": "oqdb-184-22",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien de litres de lait une vache performante produit-elle chaque jour ?"
+  },
+  {
+    "id": "oqdb-184-24",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel est le plus grand des aras parmi les perroquets connus à ce jour ?"
+  },
+  {
+    "id": "oqdb-184-25",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "De manière générale, combien d'heures par jour un panda géant est-il occupé à manger ?"
+  },
+  {
+    "id": "oqdb-184-26",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien de temps un bébé morse est-il allaité par sa mère ?"
+  },
+  {
+    "id": "oqdb-184-30",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "De combien de piquants est composée la fourrure du hérisson mâle ?"
+  },
+  {
+    "id": "oqdb-196-10",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel supercalculateur fut le premier à battre un champion du monde d'échecs ?"
+  },
+  {
+    "id": "oqdb-196-18",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Très jeune, en combien de temps Alan Turing a-t-il appris seul à lire ?"
+  },
+  {
+    "id": "oqdb-196-26",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien de pages contient le manuscrit de Turing vendu en 2015 ?"
+  },
+  {
+    "id": "oqdb-196-28",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel est le premier projet détaillé d'un ordinateur réalisé par Turing ?"
+  },
+  {
+    "id": "oqdb-199-2",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel volcan actif est le plus haut d'Europe avec 3 330 mètres d'altitude ?"
+  },
+  {
+    "id": "oqdb-199-17",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel volcan des États-Unis est le plus haut volcan du monde ?"
+  },
+  {
+    "id": "oqdb-199-21",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel volcan de Russie figure encore à ce jour parmi les plus actifs des îles Kouriles ?"
+  },
+  {
+    "id": "oqdb-206-3",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "À combien est estimé chez l'Homme l'apport recommandé quotidien de magnésium ?"
+  },
+  {
+    "id": "oqdb-206-6",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Lequel de ces aliments est le plus riche en magnésium ?"
+  },
+  {
+    "id": "oqdb-206-10",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Lequel de ces fruits est de loin le plus riche en magnésium ?"
+  },
+  {
+    "id": "oqdb-206-15",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien de magnésium contiennent 100 grammes de sel de Nigari ?"
+  },
+  {
+    "id": "oqdb-206-22",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "À combien d'enzymes du corps humain le magnésium est-il essentiel ?"
+  },
+  {
+    "id": "oqdb-206-24",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien d'isotopes connus peut-on associer au magnésium ?"
+  },
+  {
+    "id": "oqdb-206-26",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "De nos jours, quel pays produit 80 % du magnésium utilisé dans le monde ?"
+  },
+  {
+    "id": "oqdb-224-2",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien d'espèces environ comprend la famille des Cactaceae ?"
+  },
+  {
+    "id": "oqdb-224-6",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Qui a ramené les premiers cactus en Europe (des Melocactus) ?"
+  },
+  {
+    "id": "oqdb-224-8",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quelle est la température la plus adéquate pour le repos hivernal du cactus ?"
+  },
+  {
+    "id": "oqdb-224-11",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien de loges comporte la baie du fruit du cactus ?"
+  },
+  {
+    "id": "oqdb-224-14",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "En combien de genres sont réparties les 2 500 espèces de cactus connues ?"
+  },
+  {
+    "id": "oqdb-224-16",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "En combien de types morphologiques peuvent être regroupés les cactus ?"
+  },
+  {
+    "id": "oqdb-224-22",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien d'espèces de cactus ont aujourd'hui un usage médicinal et/ou vétérinaire ?"
+  },
+  {
+    "id": "oqdb-224-24",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quelle est la plus haute espèce de cactus connue à ce jour ?"
+  },
+  {
+    "id": "oqdb-224-29",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quelle est la plus petite espèce de cactus connue à ce jour ?"
+  },
+  {
+    "id": "oqdb-237-7",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel est le seul individu femelle fertile au sein d'une colonie d'abeilles ?"
+  },
+  {
+    "id": "oqdb-237-10",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Environ combien d'espèces d'abeilles sont répertoriées à ce jour sur la planète ?"
+  },
+  {
+    "id": "oqdb-237-12",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quelle espèce d'abeille est probablement la plus connue en Europe ?"
+  },
+  {
+    "id": "oqdb-237-21",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Dans quelle résine a-t-on retrouvé les plus anciens fossiles d'abeilles ?"
+  },
+  {
+    "id": "oqdb-237-22",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "De combien de castes une colonie d'abeilles est-elle composée ?"
+  },
+  {
+    "id": "oqdb-237-24",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Jusqu'à combien d'oeufs la reine des abeilles peut-elle pondre environ en une année ?"
+  },
+  {
+    "id": "oqdb-48-21",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Environ combien d'espèces de fourmis ont été répertoriées en 2013 ?"
+  },
+  {
+    "id": "oqdb-48-22",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Comment sont appelées les espèces de fourmis possédant une seule reine ?"
+  },
+  {
+    "id": "oqdb-48-23",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Environ combien d'espèces de fourmis sont connues en Europe ?"
+  },
+  {
+    "id": "oqdb-48-26",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel est le record de longévité détenu par une reine chez la fourmi noire des jardins ?"
+  },
+  {
+    "id": "oqdb-48-29",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "À combien de milliards d'individus estime-t-on le nombre de fourmis sur Terre ?"
+  },
+  {
+    "id": "oqdb-65-8",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien de vertèbres possède un ver de terre, dont plus de 5 000 espèces sont connues ?"
+  },
+  {
+    "id": "oqdb-65-14",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien de points la coccinelle des légumineuses a-t-elle sur sa carapace ?"
+  },
+  {
+    "id": "oqdb-65-17",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "De combien de degrés le faucon crécerelle peut-il tourner la tête ?"
+  },
+  {
+    "id": "oqdb-65-21",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel est l'autre nom de la primevère, une des premières fleurs du printemps ?"
+  },
+  {
+    "id": "oqdb-71-8",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel élément chimique, le plus commun des halogènes, a pour symbole « Cl » ?"
+  },
+  {
+    "id": "oqdb-71-21",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien y a-t-il de périodes dans le tableau périodique de Mendeleïev ?"
+  },
+  {
+    "id": "oqdb-97-1",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quelle est l'abréviation du Système international d'unités, le plus largement employé au monde ?"
+  },
+  {
+    "id": "oqdb-97-25",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien de kilomètres font 127 miles, distance séparant Lille de Paris ?"
+  },
+  {
+    "id": "oqdb-23-10",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quelle est a première action effectuée au début d'un match de tennis ?"
+  },
+  {
+    "id": "oqdb-23-11",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Parmi ces joueurs de tennis professionnels, lequel est le plus âgé ?"
+  },
+  {
+    "id": "oqdb-23-12",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "En quelle année Rafael Nadal a-t-il remporté son premier Grand Chelem ?"
+  },
+  {
+    "id": "oqdb-23-13",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel est le plus grand court de tennis du stade Roland-Garros ?"
+  },
+  {
+    "id": "oqdb-23-14",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Dans les quatre tournois du Grand Chelem, chaque tour se joue en combien de sets gagnants ?"
+  },
+  {
+    "id": "oqdb-23-15",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Chez les hommes, qui est le plus jeune vainqueur du tournoi de Roland Garros ?"
+  },
+  {
+    "id": "oqdb-23-18",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Qui est devenu à 19 ans le plus jeune vainqueur du tournoi US Open ?"
+  },
+  {
+    "id": "oqdb-23-20",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "En son centre, le filet de tennis doit avoir une hauteur minimale de combien de centimètres ?"
+  },
+  {
+    "id": "oqdb-23-21",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Qui a été le premier numéro un mondial lors de la création du classement ATP ?"
+  },
+  {
+    "id": "oqdb-23-22",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Qui détient le record de 48 raquettes cassées dans un match de tennis ?"
+  },
+  {
+    "id": "oqdb-23-25",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Qui est la dernière joueuse a avoir battu Justine Henin en tournoi officiel ?"
+  },
+  {
+    "id": "oqdb-23-26",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "En quelle année a été créé Wimbledon, le plus vieux tournoi de tennis au monde ?"
+  },
+  {
+    "id": "oqdb-26-2",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien y a-t-il de couloirs dans une piscine olympique ?"
+  },
+  {
+    "id": "oqdb-26-3",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Qui a été élu « journaliste français le plus chauvin » des Jeux olympiques de 2012 ?"
+  },
+  {
+    "id": "oqdb-26-6",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Lequel des anneaux du drapeau olympique se retrouve le plus près du mât ?"
+  },
+  {
+    "id": "oqdb-26-8",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Qui est la première gymnaste à avoir obtenu un 10 au Jeux olympiques ?"
+  },
+  {
+    "id": "oqdb-26-10",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Qui était Premier ministre britannique lors des Jeux olympiques de Londres en 2012 ?"
+  },
+  {
+    "id": "oqdb-26-18",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel sportif, né le 30 juin 1985 à Towson, est le plus titré des Jeux olympiques ?"
+  },
+  {
+    "id": "oqdb-26-21",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "En quelle année les Jeux olympiques se sont-ils déroulés à Paris pour la première fois ?"
+  },
+  {
+    "id": "oqdb-26-24",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quelle est la première ville à avoir accueilli trois fois les Jeux olympiques ?"
+  },
+  {
+    "id": "oqdb-26-29",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien de médailles olympiques ont été distribuées aux Jeux olympiques de 2012 ?"
+  },
+  {
+    "id": "oqdb-26-30",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "En quelle année les Jeux olympiques ont-ils été télévisés pour la première fois ?"
+  },
+  {
+    "id": "oqdb-60-1",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien vaut un lancer franc au basket-ball, accordé à un joueur victime d'une faute ?"
+  },
+  {
+    "id": "oqdb-60-3",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "En tennis, combien de sets maximum peut-il y avoir dans un match de Coupe Davis ?"
+  },
+  {
+    "id": "oqdb-60-5",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Au rugby à XV, combien de points vaut un essai permettant de tenter une transformation ?"
+  },
+  {
+    "id": "oqdb-60-7",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien de temps a-t-on pour viser avant de lancer un panier au basket-ball ?"
+  },
+  {
+    "id": "oqdb-60-12",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien de joueurs compte-t-on dans une équipe de hockey sur gazon ?"
+  },
+  {
+    "id": "oqdb-60-16",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien y a-t-il de joueurs sur le terrain à gazon d'une équipe de polo ?"
+  },
+  {
+    "id": "oqdb-60-20",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien de joueurs dénombre-t-on dans une équipe de cricket ?"
+  },
+  {
+    "id": "oqdb-60-24",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Dans quel pays se trouve le terrain de rugby aujourd'hui appelé Coca-Cola Park ?"
+  },
+  {
+    "id": "oqdb-60-26",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien de cercles sont dessinés sur une patinoire de hockey sur glace ?"
+  },
+  {
+    "id": "oqdb-60-28",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien de joueurs figurent dans une équipe de moto-ball ?"
+  },
+  {
+    "id": "oqdb-138-3",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "En haltérophilie, de combien d’essais l'athlète dispose-t-il pour chaque mouvement ?"
+  },
+  {
+    "id": "oqdb-138-4",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien de sports de force sont inscrits au programme des Jeux olympiques ?"
+  },
+  {
+    "id": "oqdb-138-6",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien pèse généralement la barre utilisée par les femmes en haltérophilie ?"
+  },
+  {
+    "id": "oqdb-138-16",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien compte-t-on de catégories de poids en haltérophilie masculine ?"
+  },
+  {
+    "id": "oqdb-138-21",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Dans quelle ville s'est tenu en 1887 le premier concours haltérophile ?"
+  },
+  {
+    "id": "oqdb-138-22",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Où furent organisés les premiers championnats d'Europe d’haltérophilie en 1896 ?"
+  },
+  {
+    "id": "oqdb-138-23",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel haltérophile détient le record de l'épaulé-jeté le plus lourd réussi en compétition ?"
+  },
+  {
+    "id": "oqdb-138-26",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Qui est devenu le premier champion olympique français dans la catégorie des mi-lourds ?"
+  },
+  {
+    "id": "oqdb-138-29",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel haltérophile turc détient tous les records du monde de sa catégorie (moins de 56kg) ?"
+  },
+  {
+    "id": "oqdb-144-3",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel boxeur est le seul à avoir jamais remporté un titre mondial à tout juste 20 ans ?"
+  },
+  {
+    "id": "oqdb-144-5",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien de temps dure un round de boxe chez les hommes ?"
+  },
+  {
+    "id": "oqdb-144-10",
+    "reason": "structure",
+    "question": "Quel champion de boxe, incarné par Carl Weathers, Rocky doit-il affronter au cinéma ?"
+  },
+  {
+    "id": "oqdb-144-13",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien peut-on compter de cordes autour des rings de boxe ?"
+  },
+  {
+    "id": "oqdb-144-14",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien de temps un boxeur au tapis est-il compté avant de passer K.O. ?"
+  },
+  {
+    "id": "oqdb-144-17",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel est le seul type de boxe a avoir été admis aux Jeux olympiques en 1901 ?"
+  },
+  {
+    "id": "oqdb-153-3",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien y a-t-il de joueurs sur le terrain dans une équipe de football ?"
+  },
+  {
+    "id": "oqdb-153-11",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Dans une épreuve de saut en longueur, à combien d'essais chaque concurrent a-t-il droit ?"
+  },
+  {
+    "id": "oqdb-153-19",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel sport reste à ce jour le sport préféré des collégiens anglais ?"
+  },
+  {
+    "id": "oqdb-153-21",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "En baseball, combien de joueurs se trouvent sur le terrain en défense ?"
+  },
+  {
+    "id": "oqdb-153-23",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien les Américains ont-ils gagné de médailles aux JO d'été de 1984 ?"
+  },
+  {
+    "id": "oqdb-153-25",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quelle moto possède la cylindrée la plus adaptée au trial ?"
+  },
+  {
+    "id": "oqdb-153-26",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien d'heures la course cycliste des Six Jours de Paris durait-elle ?"
+  },
+  {
+    "id": "oqdb-153-30",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Où les premiers jeux Olympiques d'hiver ont-ils eu lieu en 1924 ?"
+  },
+  {
+    "id": "oqdb-185-2",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "À part aux pieds, quelle est la façon la plus aisée de se déplacer avec des skis ?"
+  },
+  {
+    "id": "oqdb-185-25",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien de niveaux compte l'échelle d'intensité d'avalanche ?"
+  },
+  {
+    "id": "oqdb-191-1",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien faut-il être au minimum pour prétendre pouvoir grimper en escalade ?"
+  },
+  {
+    "id": "oqdb-191-10",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Laquelle de ces cotations est la plus haute pour un grimpeur averti ?"
+  },
+  {
+    "id": "oqdb-191-26",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel est le nom de la plus célèbre voie réalisée par Fred Rouhling ?"
+  },
+  {
+    "id": "oqdb-212-4",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien de trous un parcours de golf classique compte-t-il généralement ?"
+  },
+  {
+    "id": "oqdb-212-9",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quelle personne est la seule autorisée à conseiller un joueur sur le terrain ?"
+  },
+  {
+    "id": "oqdb-212-13",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien de trous contenait le premier parcours de Saint Andrews ?"
+  },
+  {
+    "id": "oqdb-212-21",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Dans quel pays le golf a-t-il été pour la première fois codifié en 1754 ?"
+  },
+  {
+    "id": "oqdb-212-22",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien de pratiquants de golf réguliers dasn le monde comptait-on en 2010 ?"
+  },
+  {
+    "id": "oqdb-212-24",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "En quelle année fut disputé le premier Open britannique pro ?"
+  },
+  {
+    "id": "oqdb-212-26",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Dans quelle ville s'est installé en 1627 le premier fabricant de clubs de golf ?"
+  },
+  {
+    "id": "oqdb-212-27",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien de touristes en moyenne viennent jouer au golf en Thaïlande chaque année ?"
+  },
+  {
+    "id": "oqdb-212-29",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien de dépressions comportent la plupart des balles de golf mises en vente ?"
+  },
+  {
+    "id": "oqdb-212-30",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel est le plus populaire des circuits de golf féminin ?"
+  },
+  {
+    "id": "oqdb-35-2",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Sur quelle console de chez Nintendo sont sortis les deux premiers jeux 'Pokémon' ?"
+  },
+  {
+    "id": "oqdb-35-6",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel gorille costaud fut un des premiers personnages célèbres de la marque Nintendo ?"
+  },
+  {
+    "id": "oqdb-35-12",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel a été le tout premier nom de Mario, apparu en 1981 dans le jeu 'Donkey Kong' ?"
+  },
+  {
+    "id": "oqdb-35-16",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Créée en 1983, quelle fut la première console de salon de chez Nintendo ?"
+  },
+  {
+    "id": "oqdb-35-22",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel était le tout premier métier de Mario avant de devenir plombier dans 'Mario Bros.' ?"
+  },
+  {
+    "id": "oqdb-35-24",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Dans 'Super Mario Kart', chaque coupe est composée de 5 courses comptant chacune combien de tours ?"
+  },
+  {
+    "id": "oqdb-262-8",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Sur combien de décennies McEnroe a-t-il gagné des titres en double ?"
+  },
+  {
+    "id": "oqdb-262-12",
+    "reason": "structure",
+    "question": "Jusqu'à quelle année John McEnroe a-t-il été professionnel de tennis ?"
+  },
+  {
+    "id": "oqdb-262-13",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien de tournois en simple du Grand Chelem John McEnroe a-t-il remporté ?"
+  },
+  {
+    "id": "oqdb-262-16",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Qui fut l'unique entraîneur de la carrière de John McEnroe ?"
+  },
+  {
+    "id": "oqdb-262-17",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "À combien s'élève environ le total des gains remportés par John McEnroe ?"
+  },
+  {
+    "id": "oqdb-262-19",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien de tournois a-t-il remporté en 1984, année de tous les records ?"
+  },
+  {
+    "id": "oqdb-262-24",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Avec combien de frères John McEnroe a-t-il grandi ?"
+  },
+  {
+    "id": "oqdb-262-27",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Avec qui John McEnroe a-t-il fait sa dernière apparition en Grand Chelem en double mixte ?"
+  },
+  {
+    "id": "oqdb-262-29",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel fut le dernier titre remporté par John McEnroe sur le circuit principal ?"
+  },
+  {
+    "id": "oqdb-383-6",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien y a-t-il de courts aux Internationaux de France de tennis ?"
+  },
+  {
+    "id": "oqdb-383-8",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Fin 2019, combien de fois Rafael Nadal a-t-il remporté Roland-Garros ?"
+  },
+  {
+    "id": "oqdb-383-10",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "De combien de tournois majeurs est composé le Grand Chelem de tennis ?"
+  },
+  {
+    "id": "oqdb-383-11",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien de joueurs français ont remporté Roland-Garros entre 1925 et 2019 ?"
+  },
+  {
+    "id": "oqdb-383-13",
+    "reason": "doublon exact normalisé",
+    "question": "Quel joueur de tennis français peut-on voir dans une publicité de Kinder Bueno ?"
+  },
+  {
+    "id": "oqdb-383-14",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Sur quel revêtement se sont déroulés les premiers matches de tennis ?"
+  },
+  {
+    "id": "oqdb-383-18",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Quel joueur de tennis détient le record plutôt particulier du nombre de raquettes cassées ?"
+  },
+  {
+    "id": "oqdb-383-19",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "En tennis, quel est le record de vitesse approximatif actuel enregistré au service ?"
+  },
+  {
+    "id": "oqdb-383-21",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "En 2019, qui détenait le record de titres mondiaux en tennis masculin ?"
+  },
+  {
+    "id": "oqdb-383-22",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "En combien de sets gagnants se jouent les rencontres féminines du Grand Chelem ?"
+  },
+  {
+    "id": "oqdb-383-23",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "Combien d'heures a-t-il fallu à Nadal pour venir à bout de Federer à Rome en 2006 ?"
+  },
+  {
+    "id": "oqdb-383-25",
+    "reason": "formulation à vérifier (temps, record, superlatif, décompte)",
+    "question": "À combien de décibels ont été mesurés les cris de Maria Sharapova poussés sur les courts ?"
+  }
+]

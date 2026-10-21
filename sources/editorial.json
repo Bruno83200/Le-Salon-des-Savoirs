@@ -1,0 +1,227 @@
+{
+  "exclude": {
+    "oqdb-82-3": "Énoncé ambigu, inexact, daté ou insuffisamment précis pour un QCM",
+    "oqdb-82-4": "Énoncé ambigu, inexact, daté ou insuffisamment précis pour un QCM",
+    "oqdb-82-11": "Énoncé ambigu, inexact, daté ou insuffisamment précis pour un QCM",
+    "oqdb-82-29": "Énoncé ambigu, inexact, daté ou insuffisamment précis pour un QCM",
+    "oqdb-135-7": "Énoncé ambigu, inexact, daté ou insuffisamment précis pour un QCM",
+    "oqdb-135-12": "Énoncé ambigu, inexact, daté ou insuffisamment précis pour un QCM",
+    "oqdb-135-14": "Énoncé ambigu, inexact, daté ou insuffisamment précis pour un QCM",
+    "oqdb-135-23": "Énoncé ambigu, inexact, daté ou insuffisamment précis pour un QCM",
+    "oqdb-130-11": "Énoncé ambigu, inexact, daté ou insuffisamment précis pour un QCM",
+    "oqdb-174-17": "Énoncé ambigu, inexact, daté ou insuffisamment précis pour un QCM",
+    "oqdb-109-19": "Classement thématique : hors rubrique retenue",
+    "oqdb-115-17": "Énoncé ambigu, inexact, daté ou insuffisamment précis pour un QCM",
+    "oqdb-115-11": "Énoncé ambigu, inexact, daté ou insuffisamment précis pour un QCM",
+    "oqdb-130-8": "Classement thématique : hors rubrique retenue",
+    "oqdb-104-7": "Hors rubrique géographique ou anecdote privée",
+    "oqdb-14-7": "Hors rubrique géographique ou anecdote privée",
+    "oqdb-104-5": "Hors rubrique géographique ou anecdote privée",
+    "oqdb-109-8": "Hors rubrique géographique ou anecdote privée",
+    "oqdb-130-7": "Classement thématique : hors rubrique retenue",
+    "oqdb-14-10": "Classement thématique : hors rubrique retenue",
+    "oqdb-104-4": "Hors rubrique, donnée réglementaire variable ou formulation incorrecte",
+    "oqdb-109-20": "Classement thématique : hors rubrique retenue",
+    "oqdb-130-12": "Classement thématique : hors rubrique retenue",
+    "oqdb-14-19": "Classement thématique : hors rubrique retenue",
+    "oqdb-104-27": "Classement thématique : hors rubrique retenue",
+    "oqdb-14-28": "Hors rubrique, donnée réglementaire variable ou formulation incorrecte",
+    "oqdb-109-21": "Classement thématique : hors rubrique retenue",
+    "oqdb-130-22": "Hors rubrique, donnée réglementaire variable ou formulation incorrecte",
+    "oqdb-8-7": "Réponse ou formulation historique ambiguë à documenter",
+    "oqdb-8-27": "Réponse ou formulation historique ambiguë à documenter",
+    "oqdb-120-12": "Réponse ou formulation historique ambiguë à documenter",
+    "oqdb-188-17": "Réponse ou formulation historique ambiguë à documenter",
+    "oqdb-183-28": "Réponse ou formulation historique ambiguë à documenter",
+    "oqdb-188-28": "Réponse ou formulation historique ambiguë à documenter",
+    "oqdb-120-7": "Classement thématique : hors rubrique retenue",
+    "oqdb-188-8": "Classement thématique : hors rubrique retenue",
+    "oqdb-70-14": "Culture artistique ou mythologie hors rubrique historique retenue",
+    "oqdb-70-12": "Culture artistique ou mythologie hors rubrique historique retenue",
+    "oqdb-70-16": "Classement thématique : hors rubrique retenue",
+    "oqdb-70-26": "Culture artistique ou mythologie hors rubrique historique retenue",
+    "oqdb-237-9": "Classement thématique : hors rubrique retenue",
+    "oqdb-48-3": "Classement thématique : hors rubrique retenue",
+    "oqdb-196-16": "Classement thématique : hors rubrique retenue",
+    "oqdb-48-11": "Classement thématique : hors rubrique retenue",
+    "oqdb-224-30": "Classement thématique : hors rubrique retenue",
+    "oqdb-48-9": "Généralisation, allégation de santé, récit spéculatif ou réponse à vérifier",
+    "oqdb-206-5": "Généralisation, allégation de santé, récit spéculatif ou réponse à vérifier",
+    "oqdb-151-10": "Généralisation, allégation de santé, récit spéculatif ou réponse à vérifier",
+    "oqdb-206-4": "Généralisation, allégation de santé, récit spéculatif ou réponse à vérifier",
+    "oqdb-97-7": "Généralisation, allégation de santé, récit spéculatif ou réponse à vérifier",
+    "oqdb-196-4": "Généralisation, allégation de santé, récit spéculatif ou réponse à vérifier",
+    "oqdb-224-9": "Généralisation, allégation de santé, récit spéculatif ou réponse à vérifier",
+    "oqdb-145-9": "Généralisation, allégation de santé, récit spéculatif ou réponse à vérifier",
+    "oqdb-10-8": "Généralisation, allégation de santé, récit spéculatif ou réponse à vérifier",
+    "oqdb-12-16": "Généralisation, allégation de santé, récit spéculatif ou réponse à vérifier",
+    "oqdb-12-18": "Généralisation, allégation de santé, récit spéculatif ou réponse à vérifier",
+    "oqdb-65-20": "Généralisation, allégation de santé, récit spéculatif ou réponse à vérifier",
+    "oqdb-206-20": "Généralisation, allégation de santé, récit spéculatif ou réponse à vérifier",
+    "oqdb-65-18": "Généralisation, allégation de santé, récit spéculatif ou réponse à vérifier",
+    "oqdb-71-27": "Généralisation, allégation de santé, récit spéculatif ou réponse à vérifier",
+    "oqdb-151-23": "Généralisation, allégation de santé, récit spéculatif ou réponse à vérifier",
+    "oqdb-184-27": "Généralisation, allégation de santé, récit spéculatif ou réponse à vérifier",
+    "oqdb-237-28": "Généralisation, allégation de santé, récit spéculatif ou réponse à vérifier",
+    "oqdb-184-23": "Généralisation, allégation de santé, récit spéculatif ou réponse à vérifier",
+    "oqdb-214-6": "Formulation subjective, datée, spéculative ou imprécise",
+    "oqdb-194-5": "Formulation subjective, datée, spéculative ou imprécise",
+    "oqdb-16-6": "Formulation subjective, datée, spéculative ou imprécise",
+    "oqdb-15-7": "Formulation subjective, datée, spéculative ou imprécise",
+    "oqdb-92-12": "Formulation subjective, datée, spéculative ou imprécise",
+    "oqdb-256-13": "Formulation subjective, datée, spéculative ou imprécise",
+    "oqdb-214-30": "Formulation subjective, datée, spéculative ou imprécise",
+    "oqdb-214-19": "Formulation subjective, datée, spéculative ou imprécise",
+    "oqdb-256-3": "Doublon sémantique d’une autre question retenue",
+    "oqdb-163-14": "Doublon sémantique d’une autre question retenue",
+    "oqdb-144-1": "Classement thématique : hors rubrique retenue",
+    "oqdb-144-19": "Classement thématique : hors rubrique retenue",
+    "oqdb-144-18": "Classement thématique : hors rubrique retenue",
+    "oqdb-144-11": "Classement thématique : hors rubrique retenue",
+    "oqdb-262-30": "Classement thématique : hors rubrique retenue",
+    "oqdb-26-5": "Formulation imprécise, variable, anecdote privée ou règle non universelle",
+    "oqdb-138-8": "Formulation imprécise, variable, anecdote privée ou règle non universelle",
+    "oqdb-35-8": "Formulation imprécise, variable, anecdote privée ou règle non universelle",
+    "oqdb-185-17": "Formulation imprécise, variable, anecdote privée ou règle non universelle",
+    "oqdb-144-16": "Formulation imprécise, variable, anecdote privée ou règle non universelle",
+    "oqdb-185-14": "Formulation imprécise, variable, anecdote privée ou règle non universelle",
+    "oqdb-26-25": "Formulation imprécise, variable, anecdote privée ou règle non universelle",
+    "oqdb-262-18": "Classement thématique : hors rubrique retenue",
+    "oqdb-262-28": "Formulation imprécise, variable, anecdote privée ou règle non universelle",
+    "oqdb-138-18": "Formulation imprécise, variable, anecdote privée ou règle non universelle",
+    "oqdb-153-20": "Formulation imprécise, variable, anecdote privée ou règle non universelle",
+    "oqdb-185-26": "Formulation imprécise, variable, anecdote privée ou règle non universelle",
+    "oqdb-383-9": "Doublon sémantique : nationalité de Roger Federer",
+    "oqdb-87-9": "Tautologie, question faible, formulation datée ou mesure imprécise",
+    "oqdb-86-10": "Tautologie, question faible, formulation datée ou mesure imprécise",
+    "oqdb-86-19": "Tautologie, question faible, formulation datée ou mesure imprécise",
+    "oqdb-86-17": "Tautologie, question faible, formulation datée ou mesure imprécise",
+    "oqdb-69-17": "Tautologie, question faible, formulation datée ou mesure imprécise",
+    "oqdb-14-24": "Classement thématique : hors rubrique retenue",
+    "oqdb-14-29": "Classement thématique : hors rubrique retenue",
+    "oqdb-104-12": "Hors rubrique, donnée réglementaire variable ou formulation incorrecte",
+    "oqdb-105-2": "Classement thématique : hors rubrique retenue",
+    "oqdb-105-3": "Classement thématique : hors rubrique retenue",
+    "oqdb-105-6": "Classement thématique : hors rubrique retenue",
+    "oqdb-105-25": "Hors rubrique, donnée réglementaire variable ou formulation incorrecte",
+    "oqdb-109-6": "Classement thématique : hors rubrique retenue",
+    "oqdb-130-17": "Hors rubrique, donnée réglementaire variable ou formulation incorrecte",
+    "oqdb-130-18": "Classement thématique : hors rubrique retenue",
+    "oqdb-135-10": "Classement thématique : hors rubrique retenue",
+    "oqdb-87-29": "Classement thématique : hors rubrique retenue",
+    "oqdb-3-8": "Classement thématique : hors rubrique retenue",
+    "oqdb-3-13": "Classement thématique : hors rubrique retenue",
+    "oqdb-124-28": "Classement thématique : hors rubrique retenue",
+    "oqdb-151-16": "Classement thématique : hors rubrique retenue",
+    "oqdb-151-20": "Classement thématique : hors rubrique retenue",
+    "oqdb-151-30": "Classement thématique : hors rubrique retenue",
+    "oqdb-196-15": "Classement thématique : hors rubrique retenue",
+    "oqdb-237-20": "Classement thématique : hors rubrique retenue",
+    "oqdb-48-10": "Classement thématique : hors rubrique retenue",
+    "oqdb-144-15": "Classement thématique : hors rubrique retenue",
+    "oqdb-124-3": "Formulation ou réponse trop ambiguë : mise en réserve",
+    "oqdb-124-9": "Formulation ou réponse trop ambiguë : mise en réserve",
+    "oqdb-86-3": "Formulation ou réponse trop ambiguë : mise en réserve",
+    "oqdb-140-10": "Formulation ou réponse trop ambiguë : mise en réserve",
+    "oqdb-104-3": "Formulation ou réponse trop ambiguë : mise en réserve",
+    "oqdb-135-16": "Formulation ou réponse trop ambiguë : mise en réserve",
+    "oqdb-135-19": "Formulation ou réponse trop ambiguë : mise en réserve",
+    "oqdb-14-6": "Hors rubrique, donnée réglementaire variable ou formulation incorrecte",
+    "oqdb-104-8": "Hors rubrique, donnée réglementaire variable ou formulation incorrecte",
+    "oqdb-104-23": "Hors rubrique, donnée réglementaire variable ou formulation incorrecte",
+    "oqdb-104-24": "Hors rubrique, donnée réglementaire variable ou formulation incorrecte",
+    "oqdb-109-5": "Hors rubrique, donnée réglementaire variable ou formulation incorrecte",
+    "oqdb-109-15": "Hors rubrique, donnée réglementaire variable ou formulation incorrecte",
+    "oqdb-109-27": "Hors rubrique, donnée réglementaire variable ou formulation incorrecte",
+    "oqdb-109-29": "Hors rubrique, donnée réglementaire variable ou formulation incorrecte",
+    "oqdb-130-16": "Hors rubrique, donnée réglementaire variable ou formulation incorrecte",
+    "oqdb-135-5": "Hors rubrique, donnée réglementaire variable ou formulation incorrecte",
+    "oqdb-135-25": "Formulation historique ou géopolitique insuffisamment rigoureuse",
+    "oqdb-82-24": "Formulation historique ou géopolitique insuffisamment rigoureuse",
+    "oqdb-135-18": "Formulation historique ou géopolitique insuffisamment rigoureuse",
+    "oqdb-104-13": "Formulation historique ou géopolitique insuffisamment rigoureuse"
+  },
+  "corrections": {
+    "oqdb-160-8": {
+      "question": "Sur quelle principauté la maison de Matignon a-t-elle régné ?"
+    },
+    "oqdb-160-6": {
+      "question": "Quel homme d’État français fut surnommé « le Tigre » ou le « Père la Victoire » ?",
+      "choices": [
+        "Joffre",
+        "Foch",
+        "Clemenceau",
+        "Poincaré"
+      ],
+      "answer": "Clemenceau"
+    },
+    "oqdb-98-12": {
+      "question": "En quelle année George Marshall a-t-il annoncé son plan d’aide à la reconstruction de l’Europe ?"
+    },
+    "oqdb-115-9": {
+      "question": "Dans quel pays se situe la région historique de Transylvanie ?"
+    },
+    "oqdb-115-8": {
+      "question": "Quel pays a pour voisins le Liechtenstein, l’Italie, l’Autriche, l’Allemagne et la France ?"
+    },
+    "oqdb-61-18": {
+      "question": "Dans quel pays se situe le Kilimandjaro ?"
+    },
+    "oqdb-26-4": {
+      "question": "Dans quelle ville les Jeux olympiques d’été de 2016 se sont-ils déroulés ?"
+    },
+    "oqdb-86-1": {
+      "question": "Quel est le jour de fermeture hebdomadaire habituel du musée du Louvre ?"
+    },
+    "oqdb-3-17": {
+      "question": "Quelle matière Severus Rogue enseigne-t-il à Harry pendant ses cinq premières années à Poudlard ?"
+    },
+    "oqdb-3-16": {
+      "question": "Qui est ministre de la Magie au début de la saga Harry Potter ?"
+    },
+    "oqdb-140-1": {
+      "question": "Qui Arthur Rimbaud appelait-il son « compagnon d’enfer » ?"
+    },
+    "oqdb-140-24": {
+      "question": "Dans quel État américain William Faulkner est-il né et mort ?",
+      "answer": "Le Mississippi",
+      "choices": [
+        "Le Mississippi",
+        "La Floride",
+        "Le Texas",
+        "La Californie"
+      ],
+      "explanation": "William Faulkner est né à New Albany et mort à Byhalia, deux villes de l’État du Mississippi."
+    },
+    "oqdb-65-13": {
+      "question": "Quels fruits à noyau du prunellier peut-on trouver dans les haies et en lisière des forêts ?"
+    },
+    "oqdb-71-1": {
+      "question": "Dans un laboratoire de chimie, quel nom porte un récipient à corps sphérique ?"
+    },
+    "oqdb-71-6": {
+      "question": "Quel est le symbole chimique du fer ?"
+    },
+    "oqdb-177-10": {
+      "question": "Comment se nomme le grand ami de Tom Sawyer dans le dessin animé adapté du roman de Mark Twain ?"
+    },
+    "oqdb-214-10": {
+      "question": "Quel film muet en noir et blanc a remporté le César du meilleur film en 2012 ?"
+    },
+    "oqdb-174-14": {
+      "question": "Quelle ville des Pays-Bas est le siège du gouvernement et du Parlement ?",
+      "explanation": "La Haye accueille le gouvernement et le Parlement néerlandais. Amsterdam reste la capitale constitutionnelle."
+    },
+    "oqdb-82-21": {
+      "question": "À quel ensemble de peuples et de langues les Tatars sont-ils rattachés ?",
+      "answer": "Turcique",
+      "choices": [
+        "Mongole",
+        "Chinoise",
+        "Ouzbek",
+        "Turcique"
+      ],
+      "explanation": "Les Tatars sont un peuple turcique. « Turcique » ne signifie pas qu’ils sont originaires de la Turquie actuelle."
+    }
+  }
+}
