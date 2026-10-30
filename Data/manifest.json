@@ -1,0 +1,26 @@
+{
+  "version": "0.4.0",
+  "generated": "2026-10-20",
+  "total": 624,
+  "byCategory": {
+    "geography": 104,
+    "entertainment": 104,
+    "history": 104,
+    "arts": 104,
+    "science": 104,
+    "sports": 104
+  },
+  "byDifficulty": {
+    "facile": 252,
+    "moyen": 252,
+    "difficile": 120
+  },
+  "referenceChecked": 27,
+  "archiveNotIndependentlyVerified": 597,
+  "newAuthoredQuestions": 27,
+  "retiredArchiveQuestions": 3,
+  "netAddition": 24,
+  "archiveCommit": "a16819964d171e40e6652368fc562f3bd27d0c5b",
+  "license": "CC BY-SA 4.0",
+  "verificationScope": "Les 27 questions du lot v04 seulement, réponses et explications contrôlées contre les références indiquées. Pas de certification globale du corpus."
+}
