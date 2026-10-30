@@ -729,7 +729,7 @@ window.addEventListener("hashchange", () => {
 });
 async function init() {
   try {
-    const response = await fetch("./data/questions.json");
+    const response = await fetch("./Data/questions.json");
     if (!response.ok) throw Error("HTTP " + response.status);
     questions = await response.json();
     const saved = read(KEY, null);
